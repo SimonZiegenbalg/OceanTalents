@@ -15,4 +15,4 @@ It relies on the following libraries:
 
 The examples are directly taken from the RV8523 library. For specific licensing information, refer to the example files.
 
-A combined download of the above libraries is available at: 
+A combined download of the above libraries is available at: https://git.io-warnemuende.de/ziegenba/Messtechnik-Kurs_Bibliotheken
