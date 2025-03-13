@@ -13,6 +13,4 @@ It relies on the following libraries:
 - Adafruit_BMP280_Library (https://github.com/adafruit/Adafruit_BMP280_Library)
 - RV8523 (https://github.com/watterott/Arduino-Libs.git)
 
-The examples are directly taken from the RV8523 library. For specific licensing information, refer to the example files.
-
 A combined download of the above libraries is available at: https://git.io-warnemuende.de/ziegenba/Messtechnik-Kurs_Bibliotheken
